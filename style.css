@@ -80,6 +80,9 @@ body{
     word-spacing: 2px;
     cursor: pointer; 
 }
+.information-product .buy:hover{
+    background-color: greenyellow;
+}    
 .buy .button1{
     font-size: 20px;
     margin-right: 10px;
